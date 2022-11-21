@@ -8,3 +8,5 @@ https://github.com/jwasham/coding-interview-university
 https://github.com/donnemartin/system-design-primer
 
 https://github.com/trekhleb/javascript-algorithms
+
+https://github.com/goldbergyoni/nodebestpractices
